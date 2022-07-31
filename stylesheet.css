@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(228, 183, 36); /* this changes the background color */
+    align-content: center;
+}
+h1 {
+    font-family: 'Arial Black', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    color: #0d10a0d3;
+    font-size: 50px;
+}
+#digital { /* this is the design of the clock itself */
+    font-family: 'Arial Black', sans-serif;
+    color: #0d10a0d3;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+#date { /* this is the design of the clock itself */
+    font-family: 'Arial Black', sans-serif;
+    color: #0d10a0d3;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 40px;
+}
